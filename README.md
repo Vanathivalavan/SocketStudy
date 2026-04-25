@@ -113,6 +113,8 @@ client_socket.close()
 
 ## Output:
 <img width="1835" height="185" alt="image" src="https://github.com/user-attachments/assets/3f912b33-4173-4668-a36e-7cdc01123462" />
+
+
 <img width="1830" height="128" alt="image" src="https://github.com/user-attachments/assets/158c196e-a475-4508-9c8c-6898d2687be8" />
 
 
